@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+dataset/
+input videos/
+output videos/
+venv/
+video_keypoints/
+pic1.png
+pic2.png
+rough.py
+trained_model.pkl
