@@ -20,8 +20,7 @@ The system also overlays shot counts directly on the output video.
 ## 📂 Dataset  
 We use the **Tennis Player Actions Dataset for Human Pose Estimation**:  
 
-- Source: [Mendeley Data](https://data.mendeley.com/datasets/nv3rpsxhhk/1)  
-- DOI: [10.17632/nv3rpsxhhk.1](https://doi.org/10.17632/nv3rpsxhhk.1)    
+- Source: [Mendeley Data](https://data.mendeley.com/datasets/nv3rpsxhhk/1)     
 ---
 
 ## 🛠️ Methodology  
@@ -69,7 +68,6 @@ We use the **Tennis Player Actions Dataset for Human Pose Estimation**:
 **Tennis Player Actions Dataset for Human Pose Estimation**  
 Chun-Yi Wang, Kalin Guanlun Lai, Hsu-Chun Huang, Wei-Ting Lin  
 Mendeley Data, V1, 2024  
-DOI: [10.17632/nv3rpsxhhk.1](https://doi.org/10.17632/nv3rpsxhhk.1)  
 
 ---
 
